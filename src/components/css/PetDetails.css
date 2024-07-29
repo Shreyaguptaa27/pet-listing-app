@@ -1,0 +1,8 @@
+.pet-description {
+    white-space: pre-wrap; /* Makes sure that the text wraps within the container */
+    word-wrap: break-word; /* Breaks long words to fit within the container */
+    overflow-wrap: break-word; /* Ensures the text does not overflow */
+    max-height: 600px; /* Set a max-height for the description */
+    overflow: auto; /* Adds scroll bar if the content exceeds the max-height */
+  }
+  
