@@ -1,6 +1,6 @@
-Pet Finder React App Tutorial 🐶🐱
+Pet Listing App 
 
-Welcome to the Pet Finder React app tutorial repository! This project is designed to help budding developers learn the intricacies of React by building a comprehensive pet adoption website.
+Welcome to the Pet Listing app repository! This project is a pet adoption website.
 Getting Started
 
 To get the app up and running on your local machine, follow these instructions:
@@ -27,17 +27,4 @@ Once the dependencies are installed, you can start the app with the following co
 npm run dev
 
 This command will run both the frontend and the mock backend concurrently.
-
-Tutorial Overview
-
-In this tutorial, we'll be diving deep into the React ecosystem, focusing on:
-
-    Creating dynamic React components
-    Managing state with useState and side effects with useEffect
-    Setting up routes with react-router-dom
-    Making API calls using axios
-
-... and much more!
-Feedback and Contributions
-
-Feel free to fork this repository, submit issues, or propose changes through pull requests. If you found this tutorial helpful or have suggestions for improvement, do let us know!
+Select Master branch to download zip file.
